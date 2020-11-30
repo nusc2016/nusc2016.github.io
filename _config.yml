@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Aaron's World
+title: Aaron's Portfolio
 
 # Short description of your site
 description: Making the best out of life One Day at A Time
@@ -38,15 +38,15 @@ avatar: "/img/aaron for github.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#618c64"
-navbar-text-col: "#e8da0e"
+navbar-col: "#bacee0"
+navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#bac330"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Aaron Huizenga
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "nusc2016@gmail.com.com"
+#  facebook: deanattali
+  github: nusc2016
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/aaron-huizenga/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
